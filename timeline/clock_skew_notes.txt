@@ -1,0 +1,8 @@
+Known time formats in this dataset:
+- Windows local artifacts: PDT (-0700)
+- macOS unified log: PDT (-0700)
+- Most cloud logs: UTC
+- Some Zeek sample timestamps are epoch-like and not normalized
+- Research node syslog uses local server time with no timezone suffix
+Potential skew:
+- RSCH-JUP-03 observed approximately +92 seconds drift

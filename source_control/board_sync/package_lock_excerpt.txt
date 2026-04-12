@@ -1,0 +1,4 @@
+build-linker@1.1.7:
+  resolved "https://registry.npmjs.org/build-linker/-/build-linker-1.1.7.tgz"
+  integrity sha512-8sM2...
+  hasInstallScript true

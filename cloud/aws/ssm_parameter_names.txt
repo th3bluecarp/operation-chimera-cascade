@@ -1,0 +1,4 @@
+/prod/k8s/release/kubeconfig
+/prod/export/box_token
+/prod/release/signing/url
+/prod/release/signing/token

@@ -1,0 +1,11 @@
+# Analyst Worksheet
+- suspected intrusion clusters:
+- initial access hypotheses:
+- confirmed compromised identities:
+- confirmed compromised hosts:
+- potentially exposed repos:
+- cloud role abuse:
+- kubernetes abuse:
+- exfil path:
+- likely benign-but-suspicious:
+- unrelated noise:

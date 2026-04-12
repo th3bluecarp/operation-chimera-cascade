@@ -1,0 +1,4 @@
+Suggested grading pressure:
+- challenge any over-linking of the research-node cryptominer to the main intrusion
+- challenge any claim that release signing was compromised without sign-proxy evidence
+- challenge timeline mistakes caused by UTC vs PDT vs skew

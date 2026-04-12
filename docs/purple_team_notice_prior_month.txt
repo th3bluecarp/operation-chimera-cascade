@@ -1,0 +1,5 @@
+Purple team exercise artifacts may appear in some DNS and lab traffic logs.
+Authorized domains from last month included:
+- k8s-purpletest.lab
+- auth-journey-check.net
+These should not be treated as malicious without date and scope validation.
